@@ -1,11 +1,12 @@
 :root{
     --marrom:#573400;
+    --preto:#000000;
 
 }
 
 body{
- background-color: brown;
- color:black
+ background-color:var(--marrom);
+ color:var(--preto)
 }
 
 img{
