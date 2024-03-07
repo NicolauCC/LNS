@@ -13,3 +13,10 @@ body{
 img{
     width: 10%;
 }
+
+heater{
+    diplay:flex 
+    align-items: center;
+    justify-content: space-around;
+   
+}
