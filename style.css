@@ -15,8 +15,10 @@ img{
 }
 
 heater{
+    
     diplay:flex 
     align-items: center;
     justify-content: space-around;
    
 }
+    
