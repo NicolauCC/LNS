@@ -16,8 +16,8 @@ img{
 
 header{
 
-    diplay:flex;
-    align-item: center;
+    display:flex;
+    align-items: center;
     justify-content: space-around;
    
 }
