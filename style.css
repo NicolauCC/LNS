@@ -14,8 +14,8 @@ img{
     width: 10%;
 }
 
-heater{
-    
+header{
+
     diplay:flex 
     align-items: center;
     justify-content: space-around;
