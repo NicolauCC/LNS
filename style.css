@@ -16,7 +16,7 @@ img{
 
 header{
 
-    diplay:flex 
+    diplay:flex;
     align-item: center;
     justify-content: space-around;
    
