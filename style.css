@@ -26,5 +26,10 @@ header{
 }
     
 .GODOBAMA{
-    display:flex
+    display:flex;
+    background-color:black;
+    margin: 20px;
+    padding: 44px;
+    border-radius: 50px;
+    border: 5px solid black;
 }
