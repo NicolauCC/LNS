@@ -21,7 +21,10 @@ header{
     justify-content: space-around;
 
 }
-.img-intro{
+.img-OBAM2{
     width: 20%;
 }
     
+.intro{
+    display:flex
+}
