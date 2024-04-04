@@ -34,7 +34,7 @@ header{
     border: 5px solid black;
 }
 
-.desenvolvedores{
+.Desenvolvedores{
 display: grid;
 grid-template-columns: 33% 33% 33%;
 }
