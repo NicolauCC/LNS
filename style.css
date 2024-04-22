@@ -45,6 +45,7 @@ width: 40%;
 }
 
 .pessoa{
+    background-color: rgb(182, 134, 14);
 border: 20px solid goldenrod;
 margin: 12px;
 border-radius: 50px;
