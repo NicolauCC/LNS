@@ -31,7 +31,7 @@ header{
     margin: 20px;
     padding: 44px;
     border-radius: 50px;
-    border: 5px solid black;
+    border: 5px solid rgb(255, 255, 255);
 }
 
 #desenvolvedores{
@@ -45,6 +45,6 @@ width: 40%;
 }
 
 .pessoa{
-border: 14px solid white;
+border: 14px solid goldenrod;
 margin: 12px;
 }
