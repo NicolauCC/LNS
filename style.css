@@ -65,7 +65,7 @@ border-radius: 50%;
 }
 
 .produto{
-    display: flex;
+    display: grid;
     background-color: chocolate;
     border: 5px solid white;
     margin: 20px;
