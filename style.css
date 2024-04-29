@@ -110,3 +110,22 @@ width: 142px;
     border-radius: 23%;
     width: 142px;
 }
+
+.Foto-celular{
+    border-radius: 23%;
+    width: 142px;
+}
+
+.Titulo-celular{
+    padding-left: 10px;
+}
+
+.Descrição-celular{
+    padding-left: 10px;
+}
+
+.Valor-celular{
+ color: green;
+ padding-left: 10px;
+}
+
