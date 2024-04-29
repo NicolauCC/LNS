@@ -87,3 +87,8 @@ width: 142px;
 .Titulo-corredor{
     padding-left: 10px;
 }
+
+.Valor-corredor{
+    color: green;
+    padding-left: 10px;
+}
